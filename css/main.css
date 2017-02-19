@@ -322,6 +322,7 @@ body {
     border-bottom: 2px solid #c7c7c7;
     padding: .2rem 0 .4rem;
     margin-bottom: 1.5rem;
+    color: darkblue;
 }
 
     .section-header h2 {
@@ -344,11 +345,7 @@ body {
         -moz-border-radius: 100px;
         border-radius: 50%;
         margin: 0 auto;
-        display: block;
-        -webkit-filter: grayscale(1);
-        filter: gray;
-        filter: grayscale(1);
-       
+        display: block;       
     }
 
     .page-header .header-name {
@@ -396,6 +393,7 @@ body {
             letter-spacing: -.05rem;
             text-align: center;
             margin: 0 0 .5rem;
+            color: darkblue;
         }
 
 @media (min-width: 600px) {
@@ -464,6 +462,7 @@ body {
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
     transition: all 0.2s ease;
+    color: darkblue;
 }
 
     .contact-button:hover {
